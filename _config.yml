@@ -1,0 +1,39 @@
+# GitHub Pages Configuration
+title: "Flavio Leotta - IT Specialist & DevOps Engineer"
+description: "Portfolio professionale di Flavio Leotta, IT Specialist & DevOps Engineer con competenze in sviluppo web, infrastrutture cloud e automazione DevOps."
+author: "Flavio Leotta"
+email: "giorgifla42@gmail.com"
+url: "https://yourusername.github.io"
+baseurl: "/THEANY1703"
+
+# SEO
+lang: "it"
+keywords: "Flavio Leotta, IT Specialist, DevOps Engineer, Full Stack Developer, Vue.js, React.js, Laravel, Node.js, Docker, Kubernetes, AWS, Azure"
+
+# Social
+social:
+  linkedin: "https://www.linkedin.com/in/flavio-leotta-96372b112/"
+  instagram: "https://www.instagram.com/leottaflavio/"
+  email: "giorgifla42@gmail.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Exclude files
+exclude:
+  - README.md
+  - .gitignore
+  - .github/
+  - pages.html
+
+# Include files
+include:
+  - _redirects
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
