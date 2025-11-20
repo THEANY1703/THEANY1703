@@ -18,18 +18,17 @@ Ciao! Sono **Flavio Leotta**, un **IT Specialist & DevOps Engineer** di 22 anni 
 ## 🛠️ Tecnologie e Competenze
 
 ### Frontend Development
-- **Expert**: Vue.js, React.js, TypeScript, JavaScript ES6+, HTML5, CSS3
+- **Expert**: Vue.js, TypeScript, JavaScript ES6+, HTML5, CSS3
 - **Advanced**: SASS/SCSS, Tailwind CSS, Bootstrap
 - **Intermediate**: Webpack, Vite
 
 ### Backend Development
-- **Expert**: Node.js, Laravel, PHP
-- **Advanced**: Express.js, Java, Spring Boot
-- **Intermediate**: Python, Django, C++, C#
+- **Expert**: Node.js, Express.js, Java, Python
+- **Advanced**: Django, C++, C#
+- **Intermediate**: Laravel, Spring Boot
 
 ### Mobile Development
-- **Expert**: React Native
-- **Advanced**: Flutter
+- **Expert**: React Native, Flutter
 - **Intermediate**: Ionic, Cordova
 
 ### Database & Storage
@@ -48,7 +47,7 @@ Ciao! Sono **Flavio Leotta**, un **IT Specialist & DevOps Engineer** di 22 anni 
 - **Intermediate**: Load Balancing
 
 ### Tools & Software
-- **Expert**: Git, VS Code, Windows
+- **Expert**: Git, VS Code, Windows, Linux, Debian, Kali, Active Directory
 - **Advanced**: IntelliJ IDEA, Postman, Office 365
 - **Intermediate**: Figma, Adobe Creative Suite
 
@@ -63,10 +62,10 @@ Ciao! Sono **Flavio Leotta**, un **IT Specialist & DevOps Engineer** di 22 anni 
 
 ### Full Stack Developer Freelancer
 **Agosto 2022 - Febbraio 2025**
-- Sviluppo di applicazioni web full-stack con Vue.js e Laravel
-- Implementazione di architetture microservizi
-- Gestione di database complessi e ottimizzazione delle performance
-- Deployment automatizzato con CI/CD pipelines
+- Sviluppo di applicazioni web full-stack con Vue.js, Laravel, Node.js, Express.js, Flutter,  
+- Implementazione di architetture microservizi (Vari pacchetti api e anche di pagamento es. Stripe, MyPos, Paypal)
+- Gestione di database complessi e ottimizzazione delle performance (Oracle DB, MYSql, SQLite, MongoDB)
+- Deployment automatizzato con CI/CD pipelines (Azure, GitLab, GCC)
 
 ### IT Security Specialist
 **Giugno 2021 - Settembre 2021** - *Security Service S.R.L.*
@@ -76,83 +75,19 @@ Ciao! Sono **Flavio Leotta**, un **IT Specialist & DevOps Engineer** di 22 anni 
 
 ## 🎓 Formazione & Certificazioni
 
-- **Tecnico Perito Informatico** - ITS Archimede, Catania (2017 - Presente)
+- **Tecnico Perito Informatico** - ITS Archimede, Catania (2017 - 2022)
 - **Cisco NetAcad** - Cybersecurity Fundamentals & Linux System Administration (2020 - 2021)
 - **Certificazioni Cloud** - AWS & Azure, Cloud Architecture & DevOps Practices (2023 - Presente)
+- **Certificazioni HTB** - Corsi su pentesting e difesa di infrastrutture informatiche enterprise (2019 - Presente)
+- **Corsi Udemy** - Vari corsi Udamy sia sul lato sviluppo che sul lato reti (2019 - Presente)
 
-## 🧩 Enigma del Developer
-
-Il portfolio include un enigma interattivo! Prova a risolverlo per dimostrare le tue capacità di problem solving. L'enigma è nascosto tra le righe del codice e richiede attenzione ai dettagli.
-
-**Indizio**: La risposta è un numero a 4 cifre che rappresenta l'anno in cui è nato il web moderno.
-
-## 🎨 Caratteristiche del Portfolio
-
-- **Design Cyberpunk Moderno** con effetti visivi avanzati
-- **Animazioni Interattive** e effetti glitch
-- **Responsive Design** ottimizzato per tutti i dispositivi
-- **Effetti Matrix** di sfondo
-- **Sistema di Competenze** con livelli colorati
-- **Timeline Interattiva** dell'esperienza professionale
-- **Enigma Risolvibile** con effetti speciali
-
-## 🚀 Come Visualizzare il Portfolio
-
-### Opzione 1: GitHub Pages (Raccomandato)
-1. Vai su [GitHub Pages](https://yourusername.github.io/THEANY1703)
-2. Il portfolio si caricherà automaticamente
-
-### Opzione 2: Locale
-1. Clona il repository:
-   ```bash
-   git clone https://github.com/yourusername/THEANY1703.git
-   cd THEANY1703
-   ```
-
-2. Apri `pages.html` nel tuo browser preferito
-
-3. Oppure usa un server locale:
-   ```bash
-   # Con Python 3
-   python -m http.server 8000
-   
-   # Con Node.js (se hai http-server installato)
-   npx http-server
-   ```
-
-## 📁 Struttura del Progetto
-
-```
-THEANY1703/
-├── pages.html          # Pagina principale del portfolio
-├── styles.css          # Stili CSS con design cyberpunk
-├── script.js           # JavaScript per animazioni e interattività
-├── README.md           # Questo file
-└── .github/
-    └── workflows/      # Configurazione GitHub Actions (opzionale)
-```
-
-## 🛠️ Tecnologie Utilizzate
-
-- **HTML5** - Struttura semantica e accessibile
-- **CSS3** - Design moderno con variabili CSS e animazioni
-- **JavaScript ES6+** - Interattività e effetti avanzati
-- **Google Fonts** - Orbitron e Share Tech Mono per il tema cyberpunk
-- **GitHub Pages** - Hosting gratuito e automatico
-
-## 🎯 Caratteristiche Tecniche
-
-- **Performance Ottimizzate** - Caricamento veloce e smooth
-- **Accessibilità** - Struttura semantica e contrasti ottimali
-- **SEO Ready** - Meta tag e struttura ottimizzata per i motori di ricerca
-- **Cross-Browser** - Compatibilità con tutti i browser moderni
-- **Mobile First** - Design responsive per tutti i dispositivi
 
 ## 📞 Contatti
 
-- **Email**: [giorgifla42@gmail.com](mailto:giorgifla42@gmail.com)
+- **Email**: [giorgifla1703@gmail.com](mailto:giorgifla1703@gmail.com)
 - **LinkedIn**: [Flavio Leotta](https://www.linkedin.com/in/flavio-leotta-96372b112/)
 - **Instagram**: [@leottaflavio](https://www.instagram.com/leottaflavio/)
+- **GitLab**: [@1L_c0nt38](https://gitlab.com/1L_c0nt38)
 - **Telefono**: (+39) 3491004744
 
 ## 🧠 Visione
@@ -167,4 +102,4 @@ Questo progetto è open source e disponibile sotto la [MIT License](LICENSE).
 
 **Made with ❤️ and lots of ☕ by Flavio Leotta**
 
-*Ultimo aggiornamento: Febbraio 2025*
+*Ultimo aggiornamento: Settembre 2025*
